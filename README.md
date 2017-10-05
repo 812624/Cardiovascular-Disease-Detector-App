@@ -4,7 +4,13 @@ This Android application detects the presence/absence of heart disease based on 
 
 App is very user friendly, consist of simple user interface. It performs it's prediction based on the Artificial Neural Network.
 
-### Source of dataset for prediction - http://archive.ics.uci.edu/ml/datasets/heart+Disease
+### Source of dataset for prediction - 
+
+http://archive.ics.uci.edu/ml/datasets/heart+Disease
+
+### Source for ANN model -
+
+https://github.com/812624/Cardiovascular-Disease-classification
 
 Neural Network was generated using tensorflow library.
 Here are few screenshots of my work -
