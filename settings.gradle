@@ -1,0 +1,1 @@
+include ':app', ':studio-profiler-lib-1.0'
