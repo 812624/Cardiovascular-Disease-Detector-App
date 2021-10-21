@@ -19,13 +19,18 @@ Here are few screenshots of my work -
 
      <img src="https://user-images.githubusercontent.com/16900145/31247199-76edd5b4-aa2d-11e7-921c-ec0aa121aed2.png" 
           width="400" 
-          height="700" />
+          height="600" />
      
 2. #### Section(A) to be filled: 
 
      <img src="https://user-images.githubusercontent.com/16900145/31247196-76e97320-aa2d-11e7-8d17-b0d25fa90838.png" 
           width="400" 
-          height="700" />
+          height="600" />
+          
+3. #### Section(B) to be filled: 
+
+     <img src="https://user-images.githubusercontent.com/16900145/31247197-76eaaaec-aa2d-11e7-9af9-887e716da38e.png" 
+          width="400" 
+          height="600" />
      
-![screenshot_2017-10-05-16-53-04](https://user-images.githubusercontent.com/16900145/31247197-76eaaaec-aa2d-11e7-9af9-887e716da38e.png)
 ![screenshot_2017-10-05-22-44-23](https://user-images.githubusercontent.com/16900145/31247198-76eb23b4-aa2d-11e7-913e-c4d2d3eb8133.png)
