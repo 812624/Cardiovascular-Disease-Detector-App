@@ -32,5 +32,9 @@ Here are few screenshots of my work -
      <img src="https://user-images.githubusercontent.com/16900145/31247197-76eaaaec-aa2d-11e7-9af9-887e716da38e.png" 
           width="400" 
           height="600" />
-     
-![screenshot_2017-10-05-22-44-23](https://user-images.githubusercontent.com/16900145/31247198-76eb23b4-aa2d-11e7-913e-c4d2d3eb8133.png)
+          
+3. #### Recommendation generated to go through based on results of filled information: 
+
+     <img src="https://user-images.githubusercontent.com/16900145/31247198-76eb23b4-aa2d-11e7-913e-c4d2d3eb8133.png" 
+          width="400" 
+          height="600" />
